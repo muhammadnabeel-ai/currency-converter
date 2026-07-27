@@ -1,0 +1,4 @@
+Sat Jun 06 19:10:42 2026 | PKR -> USD | Amount: 2344 | Result: 8.40143
+Mon Jul 27 04:26:39 2026 | CAD -> AUD | Amount: 2222 | Result: 2468.89
+Mon Jul 27 04:28:47 2026 | INR -> PKR | Amount: 30000 | Result: 101566
+Mon Jul 27 04:29:20 2026 | NZD -> PKR | Amount: 2500 | Result: 433642
